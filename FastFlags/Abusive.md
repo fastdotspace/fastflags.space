@@ -111,12 +111,7 @@ order: -7
     "FIntParallelDynamicPartsFastClusterBatchSize": "-1"
 }
 ```
-### Warp & Slowmotion ✨
-```json
-{
-    "DFIntMaxMissedWorldStepsRemembered": "1"
-}
-```
+### Warp ✨
 ```json
 {
     "DFIntMaxMissedWorldStepsRemembered": "1000"
@@ -137,6 +132,13 @@ order: -7
     "DFIntPhysicsDecompForceUpgradeVersion": "1500"
 }
 ```
+### Wallglide [NEW] ✨
+found by discord userid: 784354759841939506
+ ```json
+ {
+     "DFIntUnstickForceAttackInTenths": "-4"
+ }
+ ```
 ### Network Ownership
 > [!NOTE]
 > better [network ownership](https://create.roblox.com/docs/physics/network-ownership) of parts
