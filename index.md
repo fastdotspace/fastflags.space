@@ -40,5 +40,3 @@ If you find our site useful bookmark it so you never lose it!
 [!ref icon="log"](/logs/changelog.md)
 
 </div>
-
-[!embed width="0" height="0"](https://www.youtube.com/embed/z0-aMq362HY?&autoplay=1)
