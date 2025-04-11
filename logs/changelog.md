@@ -6,9 +6,24 @@ layout: blog
 date: 2025-04-01
 ---
 
+
 <div align="center">
 
-### v4.10.1 NOT FLAG RELATED [!badge variant="info" text="LATEST"]
+### v4.11 NOT FLAG RELATED [!badge variant="info" text="LATEST"]
+Released: 2025-04-11
+
+</div>
+
++++ :icon-sparkle-fill: New [Subdomains]
+- [x] **`Invisible Return`**
++++ :icon-trash: Removed
+- [ ] **Removed FastFlags no longer working**
++++
+
+
+<div align="center">
+
+### v4.10.1 NOT FLAG RELATED
 Released: 2025-04-10
 
 </div>
@@ -26,7 +41,7 @@ Released: 2025-04-10
 
 <div align="center">
 
-### v4.07 [!badge variant="info" text="LATEST"]
+### v4.07
 Released: 2025-04-06
 
 </div>
