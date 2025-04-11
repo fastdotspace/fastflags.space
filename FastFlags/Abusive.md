@@ -108,6 +108,13 @@ order: -7
     "DFIntS2PhysicsSenderRate": "10000"
 }
 ```
+### Invisible
+```json
+{
+    "DFIntGameNetOptimizeParallelPhysicsSendAssemblyBatch": "-1",
+    "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "-1"
+}
+```
 ### Clientsided Invisible
 ```json
 {
@@ -127,7 +134,7 @@ order: -7
     "DFIntPhysicsDecompForceUpgradeVersion": "1500"
 }
 ```
-### Wallglide [NEW] ✨
+### Wallglide ✨
 found by discord userid: 784354759841939506
  ```json
  {
