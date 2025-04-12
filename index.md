@@ -4,7 +4,7 @@ icon: rel-file-path
 authors:
   - name: Farrelle
     link: https://twitter.com/caffe_soft
-    avatar: assets/IMSOYVL.jpg
+    avatar: assets/fastdotspace.jpg
 date: 2023-08-26
 ---
 
