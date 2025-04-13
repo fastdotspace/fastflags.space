@@ -115,6 +115,13 @@ order: -8
     "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "-1"
 }
 ```
+### Invisible 2
+```json
+{
+    "DFIntPhysicsSenderMaxBandwidthBps": "1",
+    "DFIntPhysicsSenderMaxBandwidthBpsScaling": "0"
+}
+```
 ### Clientsided Invisible
 ```json
 {
@@ -132,6 +139,13 @@ order: -8
 ```json
 {
     "DFIntPhysicsDecompForceUpgradeVersion": "1500"
+}
+```
+### Slide on Terrain/Meshes
+@tyetonix
+```json
+{
+    "DFIntSmoothTerrainPhysicsRayAabbSlop": "-9999"
 }
 ```
 ### Wallglide ✨
