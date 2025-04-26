@@ -28,12 +28,6 @@ order: -5
     "FFlagWebViewProtocol": "False"
 }
 ```
-### THICK Healthbar
-```json
-{
-    "FFlagUpdateHealthBar": "True"
-}
-```
 ### Remove Parental Controls Tab
 ```json
 {
@@ -75,18 +69,6 @@ order: -5
 ```json
 {
     "FFlagFixReducedMotionStuckIGM2": "False"
-}
-```
-### Revert "Charts" back to Discovery
-```json
-{
-    "FFlagLuaAppChartsPageRenameIXP": "False"
-}
-```
-### Disable Sidebar
-```json
-{
-    "FFlagEnableNavBarLabels3": "False"
 }
 ```
 ### V2 Menu
@@ -134,18 +116,6 @@ order: -5
     "FFlagDebugDisplayUnthemedInstances": "True"
 }
 ```
-### Revert new invite menu
-```json
-{
-    "FFlagEnableNewInviteMenuIXP2": "False"
-}
-```
-### Revert spacing on errors
-```json
-{
-    "FFlagErrorPromptResizesHeight": "False"
-}
-```
 ### Remove Disconnect Blur/Loading Blur
 ```json
 {
@@ -164,7 +134,7 @@ order: -5
     "FFlagNewCameraControls": "True"
 }
 ```
-### Custom MicroProfile Scale
+### Custom MicroProfile Size
 ```json
 {
     "DFIntMicroProfilerDpiScaleOverride":  "100"
@@ -225,19 +195,19 @@ order: -5
     "DFIntTextBoxServiceHistorySize": "1"
 }
 ```
-### Hides gui
+### Hides Gui
 ```json
 {
     "FFlagDebugAdornsDisabled":  "True"
 }
 ```
-### Dont Render UI
+### Hides Gui 2
 ```json
 {
     "FFlagDebugDontRenderUI": "True"
 }
 ```
-### Dont Render Screen GUIs
+### Hides Gui 3
 ```json
 {
     "FFlagDebugDontRenderScreenGui": "True"
@@ -334,4 +304,5 @@ order: -5
 ```json
 {
     "FFlagInExperienceMenuResetButtonTextToRespawn": "False"
-}```
+}
+```
