@@ -1,15 +1,26 @@
 ---
-title: FastFlags.Space Changelogs
+title: fastflags.space Changelogs
 icon: log
 order: -3
 layout: blog
-date: 2025-04-01
+date: 2025-05-01
 ---
+
+<div align="center">
+
+### v5.?? [!badge variant="info" text="LATEST"]
+Released: 2025-05-01
+
+</div>
+
++++ :icon-trash: Archived
+- [x] **FastFlags are now gone. Woohoo!**
++++
 
 
 <div align="center">
 
-### v4.11 NOT FLAG RELATED [!badge variant="info" text="LATEST"]
+### v4.11
 Released: 2025-04-11
 
 </div>
