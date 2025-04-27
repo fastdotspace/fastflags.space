@@ -4,7 +4,7 @@ layout: central
 ---
 
 !!!contrast Info
-Locally editing fastflags is now gone (No more fastflags). This domain will stay up to 03/07/2025 as an archive to fastflags.
+Locally editing fastflags is now unsupported (No more fastflags). This domain will stay up to 03/07/2025 as an archive to fastflags.
 !!!
 
 
