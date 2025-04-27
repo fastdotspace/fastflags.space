@@ -21,6 +21,6 @@ links:
   link: https://github.com/fastdotspace/fastflags.space/issues
   icon: comment-discussion
 footer:
-  copyright: "the wonderful world of fastflags.space | &copy; Copyright {{ year }} – [fastdotspace](https://github.com/fastdotspace/) – All rights reserved."
+  copyright: "the wonderful world of fastflags.space | &copy; Copyright {{ year }} – fastflags.space – All rights reserved."
 meta:
   title: " | fastflags.space"
