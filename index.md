@@ -1,49 +1,26 @@
 ---
 title: Information
-icon: rel-file-path	
-authors:
-  - name: Farrelle
-    link: https://twitter.com/caffe_soft
-    avatar: assets/fastdotspace.jpg
-date: 2023-08-26
+layout: central
 ---
 
 !!!contrast Info
-FastFlags are internal settings to quickly turn features on or off without needing a full update. They're helpful for testing, rolling out changes, or fixing issues fast.
+Locally editing fastflags is now gone (No more fastflags). This domain will stay up to 03/07/2025 as an archive to fastflags.
 !!!
 
-!!!contrast Welcome
-If you find our site useful bookmark it so you never lose it!
-!!!
 
 <div align="center">
   <img src="assets/cartizest.gif" width="512" alt="YVL">
 
 
-<h1 align="center">FastFlags.$pace Archive</h1>
+# FastFlags.$pace Archive
 
 <a href="https://discord.gg/6zqNQTSkrg">
   <img src="https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff" width="156" alt="Join Discord">
   </a>
 
 </div>
-
-> [!CAUTION]
-> **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
-
 <div align="center">
 
-#### :icon-info: This is a collaborative effort to maintain an organized list of FastFlags
-
-:icon-book: 213 Currently Listed [!badge variant="info" text="LATEST"]
-
-[!ref icon="log"](/logs/changelog.md)
-
-</div>
-
+[!button variant="danger" text="This domain expires on 03/07/2025"]
 
 <div align="center">
-
-![GitHub Repo stars](https://img.shields.io/github/stars/fastdotspace/fastflags.space?style=social)
-
-</div>
