@@ -17,9 +17,6 @@ links:
 - text: Discord
   link: https://discord.gg/6zqNQTSkrg
   icon: home
-- text: Issues
-  link: https://github.com/fastdotspace/fastflags.space/issues
-  icon: comment-discussion
 footer:
   copyright: "the wonderful world of fastflags.space | &copy; Copyright {{ year }} – fastflags.space – All rights reserved."
 meta:
