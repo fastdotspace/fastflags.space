@@ -16,9 +16,7 @@ FastFlags are internal settings to quickly turn features on or off without needi
 If you find our site useful bookmark it so you never lose it!
 !!!
 
-<div align="center">
-  <img src="assets/cartizest.gif" width="512" alt="YVL">
-
+![](header.png)
 
 <h1 align="center">FastFlags.$pace Archive</h1>
 
