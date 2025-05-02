@@ -16,7 +16,7 @@ FastFlags are internal settings to quickly turn features on or off without needi
 If you find our site useful bookmark it so you never lose it!
 !!!
 
-![](header.png)
+![](header.jng)
 
 <h1 align="center">FastFlags.$pace Archive</h1>
 
