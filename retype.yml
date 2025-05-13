@@ -6,10 +6,9 @@ breadcrumb:
   home: ":icon-home:"
   separator: "|"
 branding:
-  title: "FastFlags.Space"
-  label: He1I Fanclub
-  logo: assets/allred.gif
-  logoDark: assets/album.gif
+  title: "fastflags.space"
+  logo: assets/white.gif
+  logoDark: assets/dark.gif
 links:
 - text: Repository
   link: https://github.com/fastdotspace/fastflags.space
