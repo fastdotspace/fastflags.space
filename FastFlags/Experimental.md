@@ -1,7 +1,7 @@
 ---
 title: Experimental/Testing
 icon: ai-model
-redirect: web.00xo.space
+redirect: https://web.00xo.space/
 order: -6
 ---
 
