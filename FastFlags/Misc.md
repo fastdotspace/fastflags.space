@@ -2,7 +2,6 @@
 title: Misc
 icon: ellipsis
 order: -9
-redirect: https://web.00xo.space/
 ---
 
 ### Replace all Decals with a Test Image 

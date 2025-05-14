@@ -2,7 +2,6 @@
 title: User Interface/Visuals
 icon: versions
 order: -5
-redirect: https://web.00xo.space/
 ---
 ### Revert Debug Menu UI Change
 ```json

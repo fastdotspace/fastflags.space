@@ -2,7 +2,6 @@
 title: Rendering API
 icon: cpu
 order: 0
-redirect: https://web.00xo.space/
 ---
 
 ### Metal

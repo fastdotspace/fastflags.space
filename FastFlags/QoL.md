@@ -2,7 +2,6 @@
 title: Quality of Life
 icon: sparkle-fill
 order: -4
-redirect: https://web.00xo.space/
 ---
 
 ### DO NOT DISTURB/Disable Notifications
