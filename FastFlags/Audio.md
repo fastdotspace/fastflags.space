@@ -1,7 +1,6 @@
 ---
 title: Audio Related
 icon: mute
-redirect: https://web.00xo.space/
 order: -7
 ---
 
