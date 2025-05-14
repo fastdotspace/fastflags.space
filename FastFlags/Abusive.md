@@ -1,7 +1,7 @@
 ---
 title: Abusive
 icon: alert-fill
-redirect: web.00xo.space
+redirect: https://web.00xo.space/
 order: -8
 ---
 > [!CAUTION]
