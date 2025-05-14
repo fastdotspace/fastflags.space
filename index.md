@@ -6,7 +6,7 @@ authors:
     link: https://twitter.com/caffe_soft
     avatar: https://slattist.fastflags.space/slattist.png
 date: 2023-08-26
-redirect: web.00xo.space
+redirect: https://web.00xo.space/
 ---
 
 !!!contrast Info
