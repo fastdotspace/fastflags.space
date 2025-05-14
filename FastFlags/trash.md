@@ -2,7 +2,7 @@
 title: Trash
 icon: trash
 order: -11
-redirect: web.00xo.space
+redirect: https://web.00xo.space/
 ---
 
 ### spammed
