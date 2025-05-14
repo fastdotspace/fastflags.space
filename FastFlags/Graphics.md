@@ -2,7 +2,7 @@
 title: Graphical Settings
 icon: device-desktop
 order: -3
-redirect: web.00xo.space
+redirect: https://web.00xo.space/
 ---
 
 ### Set how many pixels to render
