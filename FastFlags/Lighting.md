@@ -2,6 +2,7 @@
 title: Lightning Technologies
 icon: light-bulb
 order: -1
+redirect: https://web.00xo.space/
 ---
 ### Voxel Lighting (Phase 1)
 ```json

@@ -2,6 +2,7 @@
 title: Presets
 icon: project-template
 order: -9
+redirect: https://web.00xo.space/
 ---
 <div align="center">
 
