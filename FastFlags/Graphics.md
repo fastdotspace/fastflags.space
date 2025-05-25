@@ -131,20 +131,12 @@ order: -3
     "DFFlagDisableDPIScale": "True"
 }
 ```
-### Low Graphics Quality w/ Max Render Distance/FRM Quality Levels
+### FRM Quality Levels
 > [!TIP]
-> **1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider**
+> **1-6 Are low graphics, Above 6 are high graphics**
 ```json
 {
     "DFIntDebugFRMQualityLevelOverride": "1"
-}
-```
-
-### FRM 21 Graphics Quality Slider
-```json
-{
-    "FFlagCommitToGraphicsQualityFix": "True",
-    "FFlagFixGraphicsQuality": "True"
 }
 ```
 ### Low Render Distance
