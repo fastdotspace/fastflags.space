@@ -38,7 +38,7 @@ order: -3
 ===
 ```json
 {
-    "FFlagMovePrerenderV2": "True"
+    "FFlagMovePrerender": "True"
 }
 ```
 ### Increased Grass Motion & No Grass Motion
