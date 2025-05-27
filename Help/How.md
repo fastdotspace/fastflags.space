@@ -17,15 +17,3 @@ icon: devices
 4. **Paste** the **JSON** into `ClientAppSettings.json`. (**You can utilize ChatGPT to format multiple JSONs for clarity if needed**)
 5. **Save** and you're good to go!
 ###### Do note that after roblox updates you have to do this process again
-
-[Watch a Video Tutorial](https://streamable.com/rk5an6)
-
-## ~~:icon-question: Android Roblox How to Use:~~
-> [!CAUTION]
-> HYPERION IS PRESENT DO NOT MESS WITH IT
-
-## :icon-question: How to Use _PlaceFilter
-1. **Add** `_PlaceFilter` **after** the **Fast Flag name**.
-2. **Add** a **semicolon after** the Value (`;`). **Examples**: `True;`, `1;`.
-3. **Include** a **Place ID after** the **semicolon**. **Examples**: `True;4483381587`, `1;4483381587`.
-4. Your configuration is **complete**!**
