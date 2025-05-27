@@ -28,8 +28,8 @@ footer:
   copyright: "&copy; Copyright {{ year }} – [fastflags.space](https://github.com/fastdotspace/) – All rights reserved."
   footer:
   links:
-    - text: Terms of Service
-      link: tos.md
-      icon: globe
+    - text: Privacy Policy
+      link: privacy-policy.md
+      icon: shield-lock
 meta:
   title: " | fastflags.space"
