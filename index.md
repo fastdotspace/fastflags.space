@@ -14,7 +14,7 @@ FastFlags are internal settings to quickly turn features on or off without needi
 
 <div align="center">
 
-![](assets/ye.gif)
+![](assets/005.png)
 
 # fastflags.$pace
 <a href="https://discord.gg/6zqNQTSkrg">
