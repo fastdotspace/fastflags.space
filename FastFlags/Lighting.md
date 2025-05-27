@@ -2,6 +2,7 @@
 title: Lightning Technologies
 icon: light-bulb
 order: -1
+description: Force lighting technologies on any game
 ---
 ### Voxel Lighting (Phase 1)
 ```json
