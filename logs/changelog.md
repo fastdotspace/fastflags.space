@@ -8,6 +8,18 @@ date: 2025-04-01
 
 <div align="center">
 
+### v5.27 [!badge variant="info" text="LATEST"]
+Released: 2025-05-04
+
+</div>
+
++++ :icon-sparkle-fill: Parity
+- [x] **`00xo.space` has been discontinued and changes from `00xo.space` are applied to `fastflags.space`**
++++
+
+
+<div align="center">
+
 ### v5.04 [!badge variant="info" text="LATEST"]
 Released: 2025-05-04
 
