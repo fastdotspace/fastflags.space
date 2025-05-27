@@ -2,6 +2,7 @@
 title: Rendering API
 icon: cpu
 order: 0
+description: What Render API Roblox will use
 ---
 
 ### Metal

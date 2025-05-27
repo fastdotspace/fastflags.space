@@ -2,6 +2,7 @@
 title: Lightning Technologies
 icon: light-bulb
 order: -1
+description: Force lighting technologies on any game
 ---
 ### Voxel Lighting (Phase 1)
 ```json
@@ -28,9 +29,4 @@ order: -1
     "FFlagUnifiedLightingBetaFeature": "True"
 }
 ```
-### Unified Lighting Blendzone
-```json
-{
-    "FIntUnifiedLightingBlendZone": "500"
-}
-```
+

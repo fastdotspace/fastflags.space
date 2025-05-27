@@ -1,7 +1,7 @@
 ---
 title: Audio Related
 icon: mute
-order: -7
+order: -9
 ---
 
 ### Allows you to change voice chat distance 

@@ -1,7 +1,7 @@
 ---
 title: Abusive
 icon: alert-fill
-order: -8
+order: -7
 ---
 > [!CAUTION]
 > FastFlags are not bannable by Roblox, but abusing them can get you banned from certain games.

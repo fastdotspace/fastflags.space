@@ -1,7 +1,7 @@
 ---
 title: Trash
 icon: trash
-order: -11
+order: -10
 ---
 
 ### spammed
