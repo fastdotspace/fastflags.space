@@ -148,6 +148,12 @@ order: -5
     "FFlagLuaAppEnableFoundationColors7": "False"
 }
 ```
+### Revert New Settings Layout
+```json
+{
+    "FFlagInExperienceMenuReorderFirstVariant2": "False"
+}
+```
 ### Subscriptions Page
 ```json
 {
