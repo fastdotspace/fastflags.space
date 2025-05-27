@@ -6,9 +6,8 @@ breadcrumb:
   home: ":icon-home:"
   separator: "|"
 branding:
-  title: "fastflags.space"
-  logo: assets/white.gif
-  logoDark: assets/005.jpg
+  title: "fastflags*space"
+  logo: assets/005.gif
 links:
 - text: Repository
   link: https://github.com/fastdotspace/fastflags.space
