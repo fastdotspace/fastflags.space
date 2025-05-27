@@ -23,10 +23,9 @@ order: -4
 > `"Roblox automatically translates supported languages in chat."`
 ```json
 {
-    "FFlagChatTranslationEnableSystemMessage": false
+    "FFlagChatTranslationEnableSystemMessage": "False
 }
 ```
-
 ### Allows you to customize which languages are available for the chat translation feature
 > [!IMPORTANT]
 > English cannot be removed.
