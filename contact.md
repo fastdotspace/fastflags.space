@@ -1,6 +1,7 @@
 ---
 icon: mail
 order: -2
+visibility: private
 ---
 
 <div align="center">
