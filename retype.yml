@@ -8,7 +8,6 @@ breadcrumb:
 branding:
   title: "fastflags*space"
   logo: assets/005.gif
-  logoAlign: right
 links:
 - text: Shop
   link: https://fastflags.mysellauth.com/
@@ -26,7 +25,7 @@ links:
   link: https://github.com/fastdotspace/fastflags.space/issues
   icon: comment-discussion
 footer:
-  copyright: "the wonderful world of fastflags.space | &copy; Copyright {{ year }} – [fastdotspace](https://github.com/fastdotspace/) – All rights reserved."
+  copyright: "&copy; Copyright {{ year }} – [fastflags.space](https://github.com/fastdotspace/) – All rights reserved."
   footer:
   links:
     - text: Terms of Service
