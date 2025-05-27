@@ -95,21 +95,13 @@ order: -8
 ```
 ### Self Explanatory 4
 > [!NOTE]
-> **Disable Drag Detectors**
-```json
-{
-    "FFlagDragDetectors1": "False"
-}
-```
-### Self Explanatory 5
-> [!NOTE]
 > **Disable CTM Climbing**
 ```json
 {
     "FFlagUserClickToMoveSupportAgentCanClimb2": "False"
 }
 ```
-### Self Explanatory 6
+### Self Explanatory 5
 > [!NOTE]
 > **Disable Feedback Button in ESC**
 ```json
@@ -117,26 +109,13 @@ order: -8
     "FFlagDisableFeedbackSoothsayerCheck": "False"
 }
 ```
-### Self Explanatory 7
-@thefrenchguy4
-```json
-{
-    "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "False"
-}
-```
-### Self Explanatory 8
-```json
-{
-    "DFFlagDebugSimulateHangAtStartup": "True"
-}
-```
-### Self Explanatory 9
+### Self Explanatory 6
 ```json
 {
     "DFFlagDebugSimulateHangAtShutdown": "True"
 }
 ```
-### Self Explanatory 10
+### Self Explanatory 7
 > [!NOTE]
 > **LDL Program Stats**
 ```json
@@ -145,25 +124,25 @@ order: -8
     "DFFlagDebugSimLDLProgramPrintExecStats": "True"
 }
 ```
-### Self Explanatory 11
+### Self Explanatory 8
 ```json
 {
     "FFlagDebugCountSimBodyAllocations": "True"
 }
 ```
-### Self Explanatory 12
+### Self Explanatory 9
 ```json
 {
     "FIntNewDevConsoleMaxLogCount": "2147483647"
 }
 ```
-### Self Explanatory 13
+### Self Explanatory 10
 ```json
 {
     "FFlagDebugAlwaysDisplayRenderStats": "True"
 }
 ```
-### Self Explanatory 13
+### Self Explanatory 11
 ###### set to 0 for the super fps boost trust it works
 > [!NOTE]
 > **Default value is 650, higher value more usage lower value less**
@@ -172,7 +151,7 @@ order: -8
     "FIntRenderMaxShadowAtlasUsageBeforeDownscale": "650"
 }
 ```
-### Self Explanatory 14
+### Self Explanatory 12
 > [!NOTE]
 > Allows you to edit the DataModel Patch
 ```json
