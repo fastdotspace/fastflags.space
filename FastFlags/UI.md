@@ -3,12 +3,6 @@ title: User Interface/Visuals
 icon: versions
 order: -5
 ---
-### Revert Debug Menu UI Change
-```json
-{
-    "FFlagImproveMicroprofilerReadability": "False"
-}
-```
 ### Red Font/Highlight Font
 ```json
 {
@@ -44,11 +38,6 @@ order: -5
 ```json
 {
      "FFlagAXDefaultAvatarToShopEnabled3": "False"
-}
-```
-```
-{
-    "FFlagEnableNewChatTabExperiment5": "False"
 }
 ```
 ### Disable Toast Notifications
@@ -122,12 +111,6 @@ order: -5
     "FIntRobloxGuiBlurIntensity": "0"
 }
 ```
-### Disable New Chat Translation Settings
-```json
-{
-    "FFlagChatTranslationSettingEnabled3": "False"
-}
-```
 ### New Camera Mode
 ```json
 {
@@ -163,18 +146,6 @@ order: -5
 {
     "FFlagLuaAppUseUIBloxColorPalettes1": "False",
     "FFlagLuaAppEnableFoundationColors7": "False"
-}
-```
-### Enable New Settings Layout
-```json
-{
-    "FFlagInExperienceMenuReorderFirstVariant2": "True"
-}
-```
-### No Transparency V4 Menu **(2023)**
-```json
-{
-    "FStringInGameMenuModernizationStickyBarForcedUserIds": "UserID"
 }
 ```
 ### Subscriptions Page
@@ -213,19 +184,6 @@ order: -5
     "FFlagDebugDontRenderScreenGui": "True"
 }
 ```
-### Disable Autocomplete
-```json
-{
-    "FFlagEnableCommandAutocomplete": "False"
-}
-```
-### Break Top Bar Menu
-```json
-{
-    "FStringNewInGameMenuForceds": "UserID",
-    "FFlagEnableInGameMenuChrome": "True"
-}
-```
 ### Break Collectible Icon
 ```json
 {
@@ -236,12 +194,6 @@ order: -5
 ```json
 {
     "FFlagEnableBubbleChatFromChatService": "False"
-}
-```
-### Disable Avatar Chat
-```json
-{
-    "FFlagAvatarChatServiceEnabled3": "False"
 }
 ```
 ### Remove VC Beta Badge
@@ -285,13 +237,6 @@ order: -5
 ```json
 {
     "FFlagDebugEnableNewWebView2DevTool": "True"
-}
-```
-### Enable Events Tab/Change Events Tab URL
-```json
-{
-    "FFlagPlatformEventEnabled2": "True",
-    "FStringPlatformEventUrl": "AnyLinkHere"
 }
 ```
 ### Better Trackpad Scrolling
