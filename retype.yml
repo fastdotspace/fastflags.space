@@ -8,6 +8,7 @@ breadcrumb:
 branding:
   title: "fastflags*space"
   logo: assets/005.gif
+favicon: static/favicon.png
 links:
 - text: Shop
   link: https://fastflags.mysellauth.com/
