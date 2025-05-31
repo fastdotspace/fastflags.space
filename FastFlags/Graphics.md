@@ -22,7 +22,10 @@ order: -3
     "FFlagRenderDynamicResolutionScale12": "True"
 }
 ```
-### Move Pre-Render Phase [~25% Performance Boost] [!badge variant="danger" text="Please read the explanation below before applying"]
+### Move Pre-Render Phase
+:::content-center
+[!badge variant="success" text="~25% Performance Boost"] [!badge variant="danger" text="Please read the explanation below before applying"]
+:::
 ==- :icon-question: View Full Documentation 
 > [!IMPORTANT]  
 > This FastFlag moves the Pre-Render task to an off thread after all other tasks are completed. By default, Pre-Render runs first, forcing the render thread to wait until the Pre-Render process finishes before it can start rendering a frame.
