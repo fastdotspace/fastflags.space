@@ -6,8 +6,11 @@ breadcrumb:
   home: ":icon-home:"
   separator: "|"
 branding:
-  title: "fastflags*space"
+  title: "fastflags"
   logo: assets/005.gif
+  label: *space
+    text: "#7700ff"
+    background: "#0f0f0f"
 favicon: static/favicon.png
 links:
 - text: Shop
