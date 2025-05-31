@@ -8,9 +8,10 @@ breadcrumb:
 branding:
   title: "fastflags"
   logo: assets/005.gif
-  label: "*space"
-    text: "#7700ff"
-    background: "#0f0f0f"
+  colors:
+    label: "*space"
+      text: "#7700ff"
+      background: "#0f0f0f"
 favicon: static/favicon.png
 links:
 - text: Shop
