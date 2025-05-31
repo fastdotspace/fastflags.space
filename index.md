@@ -16,6 +16,10 @@ FastFlags are internal settings to quickly turn features on or off without needi
   
 <img src="assets/pbc.png" width="768">
 
+**fastflags.space** is a community-driven resource dedicated to cataloging and sharing information about FastFlags configuration.
+
+---
+
 :::content-center
 [!button icon="assets/Discord-Symbol-Black.svg" size="2xl" variant="contrast" text="fastflags*space"](https://discord.gg/6zqNQTSkrg)
 :::
