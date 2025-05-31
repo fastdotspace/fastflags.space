@@ -19,9 +19,9 @@ url: https://fastflags.space
 # -----------------------------------------------------------------------------
 
 branding:
-  title: "fastflags"
+  title:
   logo: assets/005.gif
-  label: "*space"
+  label: fastflags*space
 
   colors:
     label:
