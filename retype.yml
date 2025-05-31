@@ -19,9 +19,9 @@ url: https://fastflags.space
 # -----------------------------------------------------------------------------
 
 branding:
-  title:
+  title: fastflags*space
   logo: assets/005.gif
-  label: fastflags*space
+  label: "fastvariable fan club"
 
   colors:
     label:
