@@ -12,14 +12,13 @@ date: 2023-08-26
 FastFlags are internal settings to quickly turn features on or off without needing a full update. They're helpful for testing, rolling out changes, or fixing issues fast.
 !!!
 
-:::content-center
-[!button icon="assets/Discord-Symbol-Black.svg" size="xl" variant="contrast" text="Discord Server"](https://discord.gg/6zqNQTSkrg)
-:::
-
 <div align="center">
-  <img src="assets/pbc.png" width="512">
+  
+<img src="assets/pbc.png" width="768">
 
-# fastflags.$pace
+:::content-center
+[!button icon="assets/Discord-Symbol-Black.svg" size="2xl" variant="contrast" text="fastflags*space"](https://discord.gg/6zqNQTSkrg)
+:::
 
 [!ref icon="log"](/logs/changelog.md)
 
