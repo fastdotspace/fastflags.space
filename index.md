@@ -17,7 +17,7 @@ FastFlags are internal settings to quickly turn features on or off without needi
 :::
 
 <div align="center">
-  <img src="assets/pbc.png" width="256">
+  <img src="assets/pbc.png" width="512">
 
 # fastflags.$pace
 
