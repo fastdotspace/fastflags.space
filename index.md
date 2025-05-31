@@ -17,6 +17,11 @@ FastFlags are internal settings to quickly turn features on or off without needi
 ![](assets/pbc.png)
 
 # fastflags.$pace
+
+:::content-center
+[!button size="l" variant="success" text="Discord Server"](https://discord.gg/6zqNQTSkrg)
+:::
+
 <a href="https://discord.gg/6zqNQTSkrg">
   <img src="https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff" width="156" alt="Join Discord">
   </a>
