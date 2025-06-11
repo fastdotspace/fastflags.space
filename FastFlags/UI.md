@@ -9,6 +9,14 @@ order: -5
     "FStringDebugHighlightSpecificFont": "rbxasset://fonts/families/BuilderSans.json"
 }
 ```
+### Text Size Options
+```json
+{
+     "FFlagEnablePreferredTextSizeGuiService": "true",
+     "FFlagEnablePreferredTextSizeScale": "true",
+     "FFlagEnablePreferredTextSizeSettingInMenus2": "true"
+}
+```
 ### Disable Centered Experience Details Page
 ```json
 {
