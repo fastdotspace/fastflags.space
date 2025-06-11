@@ -5,6 +5,8 @@ order: -3
 ---
 
 ### Set how many pixels to render
+> [!NOTE]
+> This does not affect performance
 ```json
 {
     "DFIntDebugDynamicRenderKiloPixels": "1"
