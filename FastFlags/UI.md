@@ -21,6 +21,7 @@ order: -5
 ```json
 {
      "FIntFontSizePadding": "FIntFontSizePadding"
+}
 ```
 ### Disable Centered Experience Details Page
 ```json
