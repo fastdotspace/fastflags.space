@@ -129,9 +129,7 @@ order: -4
     "FFlagEnableTelemetryProtocol": "False",
     "FFlagEnableTelemetryService1": "False",
     "FFlagPropertiesEnableTelemetry": "False",
-    "FFlagOpenTelemetryEnabled2": "False",
-    "FFlagDisableMemoryTracking": "True",
-    "FStringTencentAuthPath": "null"
+    "FFlagOpenTelemetryEnabled2": "False"
 }
 ```
 ### Surf the web inside of Roblox
