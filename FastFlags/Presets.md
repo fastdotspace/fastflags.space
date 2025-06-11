@@ -58,13 +58,11 @@ order: -11
     "DFIntTaskSchedulerTargetFps": "9999", // Set custom FPS target
 
     // === Telemetry ===
-    "FFlagDebugDisableTelemetryEphemeralCounter": "True",
-    "FFlagDebugDisableTelemetryEphemeralStat": "True",
-    "FFlagDebugDisableTelemetryEventIngest": "True",
-    "FFlagDebugDisableTelemetryPoint": "True",
-    "FFlagDebugDisableTelemetryV2Counter": "True",
-    "FFlagDebugDisableTelemetryV2Event": "True",
-    "FFlagDebugDisableTelemetryV2Stat": "True"
+    "DFStringTelemetryV2Url": "0.0.0.0",
+    "FFlagEnableTelemetryProtocol": "False",
+    "FFlagEnableTelemetryService1": "False",
+    "FFlagPropertiesEnableTelemetry": "False",
+    "FFlagOpenTelemetryEnabled2": "False"
 }
 ```
 
