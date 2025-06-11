@@ -135,12 +135,10 @@ order: -11
     "DFIntMaxFrameBufferSize": "4", // Frame Buffer
 
     // === Telemetry ===
-    "FFlagDebugDisableTelemetryEphemeralCounter": "True",
-    "FFlagDebugDisableTelemetryEphemeralStat": "True",
-    "FFlagDebugDisableTelemetryEventIngest": "True",
-    "FFlagDebugDisableTelemetryPoint": "True",
-    "FFlagDebugDisableTelemetryV2Counter": "True",
-    "FFlagDebugDisableTelemetryV2Event": "True",
-    "FFlagDebugDisableTelemetryV2Stat": "True"
+    "DFStringTelemetryV2Url": "0.0.0.0",
+    "FFlagEnableTelemetryProtocol": "False",
+    "FFlagEnableTelemetryService1": "False",
+    "FFlagPropertiesEnableTelemetry": "False",
+    "FFlagOpenTelemetryEnabled2": "False"
 }
 ```
