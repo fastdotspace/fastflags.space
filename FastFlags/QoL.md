@@ -12,10 +12,18 @@ order: -4
 ```
 ### Disable VC
 > [!NOTE]
-> Setting this to `True` will not do anything
+> Setting this to `True` will not do change anything
 ```json
 {
     "DFFlagVoiceChat4": "False"
+}
+```
+### Disable VC
+> [!NOTE]
+> Setting this to `True` will not do change anything
+```json
+{
+    "DFFlagAvatarChatServiceEnableVoiceEnabledV1": "False"
 }
 ```
 ### Removes translated supported message on join
