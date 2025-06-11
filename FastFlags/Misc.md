@@ -159,3 +159,11 @@ order: -8
     "FFlagDataModelPatcherForceLocal": "True"
 }
 ```
+### Self Explanatory 13
+> [!NOTE]
+> Network Menu Update Rate
+```json
+{
+    "FFlagDataModelPatcherForceLocal": "-2147483647"
+}
+```
