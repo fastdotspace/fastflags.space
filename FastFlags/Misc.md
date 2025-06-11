@@ -168,6 +168,8 @@ order: -8
 }
 ```
 ### Self Explanatory 14
+> [!NOTE]
+> Improved object detail using Fractal Upsample (This belongs to graphics section i know)
 ```json
 {
     "FFlagDebugGridForceFractalUpsample": "True"
