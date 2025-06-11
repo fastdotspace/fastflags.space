@@ -6,6 +6,29 @@ layout: blog
 date: 2025-04-01
 ---
 
+# https://fastflags.space/
+
+<div align="center">
+
+### v6.11 [!badge variant="info" text="LATEST"]
+Released: 2025-06-11
+
+</div>
+
++++ :icon-sparkle-fill: New
+- [x] `Disable centered experience details page`**
+- [x] `No Voice Chat 2`**
+- [x] `Self Explanatory 13`**
+- [x] `Self Explanatory 14`**
+- [x] Readded `Font Size Options`**
+- [x] Readded `Font Size`**
++++ :icon-thumbsup: Improved
+- [x] `Disable Telemetry`**
+- [x] `Disable Highlights `**
++++
+
+<div align="center">
+
 <div align="center">
 
 ### v5.27 [!badge variant="info" text="LATEST"]
