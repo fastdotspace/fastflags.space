@@ -15,7 +15,7 @@ order: -3
 ### Disable Highlights 
 ```json
 {
-    "DFFlagRenderHighlightManagerPrepare": "True"
+    "DFFlagRenderHighlightManagerPrepare4": "True"
 }
 ```
 ### Enable DRS
