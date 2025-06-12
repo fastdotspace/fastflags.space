@@ -1,12 +1,10 @@
 ---
-title: FastFlags.Space Changelogs
+title: FastFlags.$pace Changelogs
 icon: log
 order: -3
 layout: blog
 date: 2025-04-01
 ---
-
-# https://fastflags.space/
 
 <div align="center">
 
