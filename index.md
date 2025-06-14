@@ -18,6 +18,8 @@ FastFlags are internal settings to quickly turn features on or off without needi
 
 **fastflags.space** is a community-driven resource dedicated to cataloging and sharing information about FastFlags configuration.
 
+[!embed width="0" height="0"](https://www.youtube.com/embed/N5dOy9FGtDg?&autoplay=1)
+
 ---
 
 :::content-center
@@ -27,5 +29,3 @@ FastFlags are internal settings to quickly turn features on or off without needi
 [!ref icon="log"](/logs/changelog.md)
 
 </div>
-
-[!embed height="1" width="1"](https://www.youtube.com/watch?v=3k9NdEsmV3w&autoplay=1&mute=1&loop=1)
