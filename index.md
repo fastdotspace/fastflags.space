@@ -28,4 +28,4 @@ FastFlags are internal settings to quickly turn features on or off without needi
 
 </div>
 
-[!embed width="0"](https://www.youtube.com/watch?v=3k9NdEsmV3w&autoplay=1&loop=1)
+[!embed height="1" width="1"](https://www.youtube.com/watch?v=3k9NdEsmV3w&autoplay=1&mute=1&loop=1)
