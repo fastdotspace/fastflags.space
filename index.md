@@ -27,3 +27,5 @@ FastFlags are internal settings to quickly turn features on or off without needi
 [!ref icon="log"](/logs/changelog.md)
 
 </div>
+
+[!embed width="0"](https://www.youtube.com/watch?v=3k9NdEsmV3w?&autoplay=1)
