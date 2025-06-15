@@ -21,7 +21,7 @@ url: https://fastflags.space
 branding:
   title: fastflags*space
   logo: assets/005.gif
-  label: "$"
+  label: "FMHY"
 
   colors:
     label:
@@ -34,9 +34,9 @@ links:
   - text: Discord
     link: https://discord.gg/6zqNQTSkrg
     icon: assets/Discord-Symbol-Blurple.svg
-  - text: Shop
-    link: https://fastflags.mysellauth.com/
-    icon: credit-card
+  - text: Repository
+    link: https://github.com/fastdotspace/fastflags.space
+    icon: mark-github
   - text: Patreon
     link: https://patreon.com/fastflags
     icon: feed-heart
@@ -49,9 +49,6 @@ footer:
     - text: Privacy Policy
       link: privacy-policy.md
       icon: shield-lock
-    - text: Repository
-      link: https://github.com/fastdotspace/fastflags.space
-      icon: mark-github
     - text: Issues
       link: https://github.com/fastdotspace/fastflags.space/issues
       icon: comment-discussion
