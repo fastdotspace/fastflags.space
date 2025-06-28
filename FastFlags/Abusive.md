@@ -42,7 +42,14 @@ order: -7
 ### Drunk
 ```json
 {
-    "FFlagSimAdaptiveTimesteppingDefault2": "True",
+
+    "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999"
+}
+```
+### Spinning
+```json
+{
+    "DFIntSimTimestepMultiplierDebounceCount": "-1100000",
     "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999"
 }
 ```
