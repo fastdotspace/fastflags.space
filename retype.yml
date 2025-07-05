@@ -14,15 +14,6 @@ output: .retype
 
 # -----------------------------------------------------------------------------
 
-url: https://fastflags.space
-
-# -----------------------------------------------------------------------------
-
-start:
-  pro: true
-
-# -----------------------------------------------------------------------------
-
 branding:
   title: fastflags*space
   logo: assets/005.gif
@@ -49,7 +40,7 @@ links:
 # -----------------------------------------------------------------------------
 
 footer:
-  copyright: "© Copyright {{ year }} – [fastflags.space](https://github.com/fastdotspace/) – All rights reserved."
+  copyright: "© Copyright {{ year }} – fastflags.space – All rights reserved."
   links:
     - text: Privacy Policy
       link: privacy-policy.md
